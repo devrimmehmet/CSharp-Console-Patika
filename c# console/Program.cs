@@ -12,7 +12,7 @@ namespace c__console
             Console.WriteLine("Soyadınızı Giriniz :");
             string surname = Console.ReadLine();
             Console.WriteLine("Merhaba "+name+" "+surname);
-           
+           //deneme commit
            
         }
     }
