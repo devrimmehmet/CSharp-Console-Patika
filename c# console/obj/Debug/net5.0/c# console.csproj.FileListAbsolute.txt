@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\bin\Debug\net5.0\c# console.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\bin\Debug\net5.0\c# console.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\bin\Debug\net5.0\c# console.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\bin\Debug\net5.0\c# console.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\bin\Debug\net5.0\c# console.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\bin\Debug\net5.0\ref\c# console.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\bin\Debug\net5.0\c# console.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\obj\Debug\net5.0\c# console.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\obj\Debug\net5.0\c# console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\obj\Debug\net5.0\c# console.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\obj\Debug\net5.0\c# console.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\obj\Debug\net5.0\c# console.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\obj\Debug\net5.0\c# console.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\obj\Debug\net5.0\ref\c# console.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\obj\Debug\net5.0\c# console.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\c# console\obj\Debug\net5.0\c# console.genruntimeconfig.cache
