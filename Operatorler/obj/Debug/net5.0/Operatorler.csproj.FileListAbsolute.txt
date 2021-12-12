@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\bin\Debug\net5.0\Operatorler.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\bin\Debug\net5.0\Operatorler.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\bin\Debug\net5.0\Operatorler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\bin\Debug\net5.0\ref\Operatorler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\bin\Debug\net5.0\Operatorler.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\obj\Debug\net5.0\Operatorler.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\obj\Debug\net5.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\obj\Debug\net5.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\obj\Debug\net5.0\Operatorler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\obj\Debug\net5.0\ref\Operatorler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\obj\Debug\net5.0\Operatorler.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Operatorler\obj\Debug\net5.0\Operatorler.genruntimeconfig.cache
