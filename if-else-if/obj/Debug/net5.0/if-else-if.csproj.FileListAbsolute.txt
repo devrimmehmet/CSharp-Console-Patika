@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\bin\Debug\net5.0\if-else-if.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\bin\Debug\net5.0\if-else-if.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\bin\Debug\net5.0\if-else-if.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\bin\Debug\net5.0\if-else-if.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\bin\Debug\net5.0\if-else-if.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\bin\Debug\net5.0\ref\if-else-if.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\bin\Debug\net5.0\if-else-if.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\obj\Debug\net5.0\if-else-if.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\obj\Debug\net5.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\obj\Debug\net5.0\if-else-if.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\obj\Debug\net5.0\if-else-if.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\obj\Debug\net5.0\if-else-if.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\obj\Debug\net5.0\if-else-if.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\obj\Debug\net5.0\ref\if-else-if.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\obj\Debug\net5.0\if-else-if.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\if-else-if\obj\Debug\net5.0\if-else-if.genruntimeconfig.cache
