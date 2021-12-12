@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\bin\Debug\net5.0\Degiskenler.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\bin\Debug\net5.0\Degiskenler.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\bin\Debug\net5.0\Degiskenler.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\bin\Debug\net5.0\Degiskenler.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\bin\Debug\net5.0\Degiskenler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\bin\Debug\net5.0\ref\Degiskenler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\bin\Debug\net5.0\Degiskenler.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\obj\Debug\net5.0\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\obj\Debug\net5.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\obj\Debug\net5.0\Degiskenler.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\obj\Debug\net5.0\Degiskenler.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\obj\Debug\net5.0\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\obj\Debug\net5.0\Degiskenler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\obj\Debug\net5.0\ref\Degiskenler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\obj\Debug\net5.0\Degiskenler.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Degiskenler\obj\Debug\net5.0\Degiskenler.genruntimeconfig.cache
