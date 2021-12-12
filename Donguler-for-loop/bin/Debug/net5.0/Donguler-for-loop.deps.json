@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Donguler-for-loop/1.0.0": {
+        "runtime": {
+          "Donguler-for-loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Donguler-for-loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
