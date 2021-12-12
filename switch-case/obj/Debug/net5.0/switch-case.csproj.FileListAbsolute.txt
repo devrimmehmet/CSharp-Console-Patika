@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\bin\Debug\net5.0\switch-case.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\bin\Debug\net5.0\switch-case.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\bin\Debug\net5.0\switch-case.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\bin\Debug\net5.0\ref\switch-case.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\bin\Debug\net5.0\switch-case.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\obj\Debug\net5.0\switch-case.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\obj\Debug\net5.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\obj\Debug\net5.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\obj\Debug\net5.0\switch-case.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\obj\Debug\net5.0\ref\switch-case.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\obj\Debug\net5.0\switch-case.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\switch-case\obj\Debug\net5.0\switch-case.genruntimeconfig.cache
