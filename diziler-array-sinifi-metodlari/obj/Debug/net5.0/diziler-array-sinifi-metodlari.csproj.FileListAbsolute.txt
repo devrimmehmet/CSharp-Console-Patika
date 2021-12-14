@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\bin\Debug\net5.0\ref\diziler-array-sinifi-metodlari.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\obj\Debug\net5.0\ref\diziler-array-sinifi-metodlari.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.genruntimeconfig.cache
