@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\bin\Debug\net5.0\Recursive-extension-metotlar.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\bin\Debug\net5.0\Recursive-extension-metotlar.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\bin\Debug\net5.0\Recursive-extension-metotlar.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\bin\Debug\net5.0\Recursive-extension-metotlar.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\bin\Debug\net5.0\Recursive-extension-metotlar.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\bin\Debug\net5.0\ref\Recursive-extension-metotlar.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\bin\Debug\net5.0\Recursive-extension-metotlar.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\obj\Debug\net5.0\Recursive-extension-metotlar.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\obj\Debug\net5.0\Recursive-extension-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\obj\Debug\net5.0\Recursive-extension-metotlar.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\obj\Debug\net5.0\Recursive-extension-metotlar.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\obj\Debug\net5.0\Recursive-extension-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\obj\Debug\net5.0\Recursive-extension-metotlar.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\obj\Debug\net5.0\ref\Recursive-extension-metotlar.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\obj\Debug\net5.0\Recursive-extension-metotlar.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Recursive-extension-metotlar\obj\Debug\net5.0\Recursive-extension-metotlar.genruntimeconfig.cache
