@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\bin\Debug\net5.0\Generic List.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\bin\Debug\net5.0\Generic List.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\bin\Debug\net5.0\Generic List.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\bin\Debug\net5.0\Generic List.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\bin\Debug\net5.0\Generic List.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\bin\Debug\net5.0\ref\Generic List.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\bin\Debug\net5.0\Generic List.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\obj\Debug\net5.0\Generic List.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\obj\Debug\net5.0\Generic List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\obj\Debug\net5.0\Generic List.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\obj\Debug\net5.0\Generic List.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\obj\Debug\net5.0\Generic List.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\obj\Debug\net5.0\Generic List.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\obj\Debug\net5.0\ref\Generic List.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\obj\Debug\net5.0\Generic List.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Generic List\obj\Debug\net5.0\Generic List.genruntimeconfig.cache
