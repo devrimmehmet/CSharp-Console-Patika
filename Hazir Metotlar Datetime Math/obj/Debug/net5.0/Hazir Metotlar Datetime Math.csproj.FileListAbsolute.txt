@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\bin\Debug\net5.0\Hazir Metotlar Datetime Math.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\bin\Debug\net5.0\Hazir Metotlar Datetime Math.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\bin\Debug\net5.0\Hazir Metotlar Datetime Math.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\bin\Debug\net5.0\Hazir Metotlar Datetime Math.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\bin\Debug\net5.0\Hazir Metotlar Datetime Math.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\bin\Debug\net5.0\ref\Hazir Metotlar Datetime Math.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\bin\Debug\net5.0\Hazir Metotlar Datetime Math.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\obj\Debug\net5.0\Hazir Metotlar Datetime Math.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\obj\Debug\net5.0\Hazir Metotlar Datetime Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\obj\Debug\net5.0\Hazir Metotlar Datetime Math.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\obj\Debug\net5.0\Hazir Metotlar Datetime Math.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\obj\Debug\net5.0\Hazir Metotlar Datetime Math.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\obj\Debug\net5.0\Hazir Metotlar Datetime Math.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\obj\Debug\net5.0\ref\Hazir Metotlar Datetime Math.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\obj\Debug\net5.0\Hazir Metotlar Datetime Math.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Hazir Metotlar Datetime Math\obj\Debug\net5.0\Hazir Metotlar Datetime Math.genruntimeconfig.cache
