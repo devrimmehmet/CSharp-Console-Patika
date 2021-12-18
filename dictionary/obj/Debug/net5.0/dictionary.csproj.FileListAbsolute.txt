@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\bin\Debug\net5.0\dictionary.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\bin\Debug\net5.0\dictionary.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\bin\Debug\net5.0\dictionary.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\bin\Debug\net5.0\dictionary.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\bin\Debug\net5.0\dictionary.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\bin\Debug\net5.0\ref\dictionary.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\bin\Debug\net5.0\dictionary.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\obj\Debug\net5.0\dictionary.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\obj\Debug\net5.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\obj\Debug\net5.0\dictionary.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\obj\Debug\net5.0\dictionary.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\obj\Debug\net5.0\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\obj\Debug\net5.0\dictionary.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\obj\Debug\net5.0\ref\dictionary.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\obj\Debug\net5.0\dictionary.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\dictionary\obj\Debug\net5.0\dictionary.genruntimeconfig.cache
