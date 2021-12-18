@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\bin\Debug\net5.0\arrayList.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\bin\Debug\net5.0\arrayList.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\bin\Debug\net5.0\arrayList.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\bin\Debug\net5.0\arrayList.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\bin\Debug\net5.0\arrayList.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\bin\Debug\net5.0\ref\arrayList.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\bin\Debug\net5.0\arrayList.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\obj\Debug\net5.0\arrayList.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\obj\Debug\net5.0\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\obj\Debug\net5.0\arrayList.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\obj\Debug\net5.0\arrayList.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\obj\Debug\net5.0\arrayList.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\obj\Debug\net5.0\arrayList.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\obj\Debug\net5.0\ref\arrayList.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\obj\Debug\net5.0\arrayList.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arrayList\obj\Debug\net5.0\arrayList.genruntimeconfig.cache
