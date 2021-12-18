@@ -30,6 +30,7 @@ namespace Hazir_metotlar_string
             Console.WriteLine(degisken.StartsWith("Merhaba"));
 
             //IndexOf
+            Console.WriteLine("*** INDEXOF ***");
             Console.WriteLine(degisken.IndexOf("CS"));
             Console.WriteLine(degisken.IndexOf("Cs"));
 
