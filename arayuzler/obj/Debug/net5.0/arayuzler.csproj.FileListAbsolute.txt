@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\bin\Debug\net5.0\arayuzler.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\bin\Debug\net5.0\arayuzler.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\bin\Debug\net5.0\arayuzler.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\bin\Debug\net5.0\arayuzler.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\bin\Debug\net5.0\arayuzler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\bin\Debug\net5.0\ref\arayuzler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\bin\Debug\net5.0\arayuzler.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\obj\Debug\net5.0\arayuzler.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\obj\Debug\net5.0\arayuzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\obj\Debug\net5.0\arayuzler.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\obj\Debug\net5.0\arayuzler.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\obj\Debug\net5.0\arayuzler.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\obj\Debug\net5.0\arayuzler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\obj\Debug\net5.0\ref\arayuzler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\obj\Debug\net5.0\arayuzler.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\arayuzler\obj\Debug\net5.0\arayuzler.genruntimeconfig.cache
