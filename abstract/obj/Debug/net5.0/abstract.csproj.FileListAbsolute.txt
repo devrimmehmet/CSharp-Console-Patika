@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\obj\Debug\net5.0\abstract.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\obj\Debug\net5.0\abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\obj\Debug\net5.0\abstract.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\obj\Debug\net5.0\abstract.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\obj\Debug\net5.0\abstract.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\bin\Debug\net5.0\abstract.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\bin\Debug\net5.0\abstract.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\bin\Debug\net5.0\abstract.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\bin\Debug\net5.0\abstract.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\bin\Debug\net5.0\abstract.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\bin\Debug\net5.0\ref\abstract.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\bin\Debug\net5.0\abstract.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\obj\Debug\net5.0\abstract.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\obj\Debug\net5.0\ref\abstract.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\obj\Debug\net5.0\abstract.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\abstract\obj\Debug\net5.0\abstract.genruntimeconfig.cache
