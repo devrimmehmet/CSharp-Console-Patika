@@ -24,7 +24,7 @@ namespace Koleksiyonlar_Soru_3
                     SesliHarfler.Add(cumle[i].ToString());
                 }
             }
-            Console.WriteLine("toplam {0} tane sesli harf vardır.", sayac);
+            Console.WriteLine("Toplam {0} tane sesli harf vardır.", sayac);
             SesliHarfler.Sort();
             Console.Write("Sıralı şekilde listesi: ", sayac);
             foreach(var item in SesliHarfler)

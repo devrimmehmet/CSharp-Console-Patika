@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\bin\Debug\net5.0\sinif kavramı.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\bin\Debug\net5.0\sinif kavramı.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\bin\Debug\net5.0\sinif kavramı.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\bin\Debug\net5.0\sinif kavramı.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\bin\Debug\net5.0\sinif kavramı.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\bin\Debug\net5.0\ref\sinif kavramı.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\bin\Debug\net5.0\sinif kavramı.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\obj\Debug\net5.0\sinif kavramı.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\obj\Debug\net5.0\sinif kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\obj\Debug\net5.0\sinif kavramı.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\obj\Debug\net5.0\sinif kavramı.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\obj\Debug\net5.0\sinif kavramı.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\obj\Debug\net5.0\sinif kavramı.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\obj\Debug\net5.0\ref\sinif kavramı.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\obj\Debug\net5.0\sinif kavramı.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\sinif kavramı\obj\Debug\net5.0\sinif kavramı.genruntimeconfig.cache
