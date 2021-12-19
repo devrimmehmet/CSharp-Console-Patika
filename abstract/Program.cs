@@ -6,7 +6,17 @@ namespace abstractornek
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+              NewFocus focus1=new NewFocus();
+              Console.WriteLine( focus1.HangiMarkanınAraci().ToString());
+              Console.WriteLine( focus1.KacTekerlektenOlusur().ToString());
+              Console.WriteLine( focus1.StandartRengiNe().ToString());
+
+              NewCivic civic1=new NewCivic();
+              Console.WriteLine( civic1.HangiMarkanınAraci().ToString());
+              Console.WriteLine( civic1.KacTekerlektenOlusur().ToString());
+              Console.WriteLine( civic1.StandartRengiNe().ToString());
+
         }
     }
 }
