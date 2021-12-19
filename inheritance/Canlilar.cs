@@ -2,7 +2,7 @@ using System;
 
 namespace inheritance
 {
-   public  class Canlilar
+   public class Canlilar
     {
         protected void Beslenme()
         {
@@ -12,9 +12,14 @@ namespace inheritance
         {
             Console.WriteLine("Canlılar Solunum yapar.");
         }
-         protected void Bosaltim()
+        public void Bosaltim()
         {
             Console.WriteLine("Canlılar Boşaltım yapar.");
         }
+        public virtual void UyaranlaraTepki()
+        {
+            Console.WriteLine("Canlılar uyaranlara tepki verir.");
+        }
     }
+
 }
