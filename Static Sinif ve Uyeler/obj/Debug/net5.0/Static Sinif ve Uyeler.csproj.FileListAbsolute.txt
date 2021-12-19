@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\bin\Debug\net5.0\Static Sinif ve Uyeler.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\bin\Debug\net5.0\Static Sinif ve Uyeler.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\bin\Debug\net5.0\Static Sinif ve Uyeler.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\bin\Debug\net5.0\Static Sinif ve Uyeler.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\bin\Debug\net5.0\Static Sinif ve Uyeler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\bin\Debug\net5.0\ref\Static Sinif ve Uyeler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\bin\Debug\net5.0\Static Sinif ve Uyeler.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\obj\Debug\net5.0\Static Sinif ve Uyeler.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\obj\Debug\net5.0\Static Sinif ve Uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\obj\Debug\net5.0\Static Sinif ve Uyeler.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\obj\Debug\net5.0\Static Sinif ve Uyeler.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\obj\Debug\net5.0\Static Sinif ve Uyeler.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\obj\Debug\net5.0\Static Sinif ve Uyeler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\obj\Debug\net5.0\ref\Static Sinif ve Uyeler.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\obj\Debug\net5.0\Static Sinif ve Uyeler.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Static Sinif ve Uyeler\obj\Debug\net5.0\Static Sinif ve Uyeler.genruntimeconfig.cache
