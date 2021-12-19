@@ -1,0 +1,16 @@
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\bin\Debug\net5.0\Csharp enum.exe
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\bin\Debug\net5.0\Csharp enum.deps.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\bin\Debug\net5.0\Csharp enum.runtimeconfig.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\bin\Debug\net5.0\Csharp enum.runtimeconfig.dev.json
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\bin\Debug\net5.0\Csharp enum.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\bin\Debug\net5.0\ref\Csharp enum.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\bin\Debug\net5.0\Csharp enum.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\obj\Debug\net5.0\Csharp enum.csproj.AssemblyReference.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\obj\Debug\net5.0\Csharp enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\obj\Debug\net5.0\Csharp enum.AssemblyInfoInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\obj\Debug\net5.0\Csharp enum.AssemblyInfo.cs
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\obj\Debug\net5.0\Csharp enum.csproj.CoreCompileInputs.cache
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\obj\Debug\net5.0\Csharp enum.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\obj\Debug\net5.0\ref\Csharp enum.dll
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\obj\Debug\net5.0\Csharp enum.pdb
+C:\Users\DevrimMehmet\Desktop\Patika.dev\Csharp enum\obj\Debug\net5.0\Csharp enum.genruntimeconfig.cache
