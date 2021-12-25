@@ -1,7 +1,7 @@
-# OOP / ÖDEV - 2
-## Hayvanat Bahçesi Yönetimi
+# OOP / ÖDEV - 3
+## Uçuş Yönetim Sistemi
 ### Class Diagram (Polimorfizm modeli kullanılacak)
-**Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
+**Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.**
 
 * Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
 * Hava yolu şirketi, farklı tipteki uçaklara sahiptir.
