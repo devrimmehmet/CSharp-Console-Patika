@@ -20,4 +20,4 @@ Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bi
 
 *****
 
-![Class Diagram](https://raw.githubusercontent.com/devrimmehmet/CSharp-Console-Patika/master/OOP/%C3%9Cniversite%20Y%C3%B6netim%20Sistemi.jpg)
+![Class Diagram](https://raw.githubusercontent.com/devrimmehmet/CSharp-Console-Patika/master/OOP-2/Hayvanat%20Bah%C3%A7esi%20Y%C3%B6netimi.jpg)
