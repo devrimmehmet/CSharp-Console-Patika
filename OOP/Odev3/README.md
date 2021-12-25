@@ -16,4 +16,4 @@
 
 *****
 
-![Class Diagram](https://raw.githubusercontent.com/devrimmehmet/CSharp-Console-Patika/master/OOP-2/Hayvanat%20Bah%C3%A7esi%20Y%C3%B6netimi.jpg)
+![Class Diagram](https://raw.githubusercontent.com/devrimmehmet/CSharp-Console-Patika/master/OOP/Odev3/U%C3%A7u%C5%9F%20Y%C3%B6netim%20Sistemi.jpg)
